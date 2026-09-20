@@ -1,0 +1,1 @@
+export const theme={void:'#0A0A0F',sigil:'#FFB347',ecosystem:'#4FE3C1',text:'#F5F7FA',muted:'#8E96A3'} as const;
